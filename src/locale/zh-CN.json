@@ -1,0 +1,7 @@
+{
+  "custom-js-node": {
+    "Custom JavaScript": "自定义 JavaScript",
+    "Execute custom JavaScript code with access to workflow context": "使用工作流上下文执行自定义 JavaScript 代码",
+    "JavaScript Code": "JavaScript 代码"
+  }
+}
