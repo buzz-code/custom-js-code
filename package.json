@@ -1,6 +1,6 @@
 {
   "name": "@buzz-code/custom-js-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NocoBase plugin for executing custom JavaScript code in workflows",
   "license": "MIT",
   "main": "./dist/server/index.js",
